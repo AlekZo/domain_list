@@ -2,3 +2,4 @@ cd /tmp && curl -O https://raw.githubusercontent.com/AlekZo/domain_list/main/ope
 cd /tmp && curl -O https://raw.githubusercontent.com/AlekZo/domain_list/main/youtube && kvas import youtube
 cd /tmp && curl -O https://raw.githubusercontent.com/AlekZo/domain_list/main/salesforce && kvas import salesforce
 cd /tmp && curl -O https://raw.githubusercontent.com/AlekZo/domain_list/main/instagram && kvas import instagram
+cd /tmp && curl -O https://raw.githubusercontent.com/AlekZo/domain_list/main/other && kvas import other
