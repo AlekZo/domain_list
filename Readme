@@ -1,0 +1,1 @@
+cd /tmp && curl -O https://raw.githubusercontent.com/ && kvas import inside-kvas.lst
