@@ -1,1 +1,3 @@
-cd /tmp && curl -O https://raw.githubusercontent.com/ && kvas import inside-kvas.lst
+cd /tmp && curl -O https://raw.githubusercontent.com/AlekZo/domain_list/main/openai && kvas import openai
+cd /tmp && curl -O https://raw.githubusercontent.com/AlekZo/domain_list/main/youtube && kvas import youtube
+
